@@ -35,9 +35,12 @@
     ),
     'blocks' => array(
             array('template' => 'page/checkout/order.tpl', 'block'=>'checkout_order_btn_confirm_bottom', 'file'=>'checkout_order_btn_confirm_bottom.tpl'),
+            array('template' => 'page/checkout/basket.tpl', 'block'=>'checkout_basket_main', 'file'=>'checkout_basket_main.tpl'),
+            array('template' => 'page/checkout/basket.tpl', 'block'=>'basket_btn_next_top', 'file'=>'basket_btn_next_top.tpl'),
+            array('template' => 'page/checkout/basket.tpl', 'block'=>'basket_btn_next_bottom', 'file'=>'basket_btn_next_bottom.tpl'),
      ),
     'settings' => array(
-        array('group' => 'ecs_main', 'name' => 'ecs_mindestbestellmenge', 'type' => 'str',  'value' => '1'),
+        array('group' => 'ecs_main', 'name' => 'ecs_mindestbestellmenge', 'type' => 'str',  'value' => '1'),    
     ),
 );
 ?>
