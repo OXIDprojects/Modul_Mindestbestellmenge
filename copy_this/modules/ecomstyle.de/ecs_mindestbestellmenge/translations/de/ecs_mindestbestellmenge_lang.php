@@ -16,4 +16,11 @@
  *    You should have received a copy of the GNU General Public License
  *    along with this program.  If not, see {http://www.gnu.org/licenses/}.
  */
-$sVendorMetadataVersion = '1.0';
+$sLangName  = "Deutsch";
+$iLangNr    = 0;
+$aLang = array(
+	'charset'                       =>  'ISO-8859-15',
+    'ecs_mindestbestellmenge1'      =>  'Die Bestellung ist erst ab ',
+	'ecs_mindestbestellmenge2'      =>  ' Artikeln m&ouml;glich.',
+);
+?>
