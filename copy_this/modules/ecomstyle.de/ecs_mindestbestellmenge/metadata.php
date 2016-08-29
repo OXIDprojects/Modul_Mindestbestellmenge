@@ -20,8 +20,7 @@ $sMetadataVersion = '1.1';
 $aModule = array(
     'id'            => 'ecs-mindestbestellmenge',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>Mindestbestellmenge</i>',
-    'description'   => '<i>Einstellen einer Mindestbestellmenge an Artikeln in den Moduleinstellungen</i>
-                    <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+    'description'   => '<i>Einstellen einer Mindestbestellmenge an Artikeln in den Moduleinstellungen</i>',
 
     'thumbnail'     => 'ecomstyle.png',
     'version'       => '1.1',
